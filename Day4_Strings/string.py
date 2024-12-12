@@ -44,10 +44,13 @@ print(f'{x}+{y}={x+y}')
 print(f'{x}-{y}={x-y}')
 
 
-#string indexing 
+#string indexing and slicing 
 
 lang="python"
 print(len(lang))
 print(lang[3])
 print(lang[4])
 print(lang[1:3])
+
+
+
