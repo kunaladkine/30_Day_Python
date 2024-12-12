@@ -32,3 +32,12 @@ x = 'John'
 first_name, last_name='kunal','adkine'
 print(first_name)
 print(last_name)
+
+#take a variable input valuue from user.
+
+first_name=input("Enter your name ")
+age=int(input("enter your age"))
+print(first_name)
+print(age)
+
+
